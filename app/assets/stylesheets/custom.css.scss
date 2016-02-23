@@ -3,6 +3,11 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+.alert-notice {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
 
 .navbar {
     
@@ -17,3 +22,4 @@ background: #614385; /* fallback for old browsers */
 background: -webkit-linear-gradient(to left, #614385 , #516395); /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to left, #614385 , #516395); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
