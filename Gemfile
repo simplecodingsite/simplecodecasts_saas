@@ -24,7 +24,6 @@ end
 
   gem 'uglifier', '>= 1.3.0'
   gem 'twitter-bootstrap-rails'
-end
 
 gem 'jquery-rails'
 
